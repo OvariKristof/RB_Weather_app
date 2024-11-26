@@ -84,6 +84,3 @@ else:
         st.plotly_chart(fig, use_container_width=True)
     else:
         st.warning("Failed to load forecast data.")
-        
-        
-
